@@ -1,5 +1,7 @@
 // var user = require("./userData");
 
+import React from "react"
+
 const user = {
     userName: "XYZ",
   };
